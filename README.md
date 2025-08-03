@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RifayatQ
-- 👀 I’m interested in Data Analytics and Machine Learning.
-- 🌱 I’m currently learning Data Science.
+- 👀 I’m interested in Data Analytics Engineering.
+- 🌱 I’m currently learning Data Engineering.
 - 💞️ I’m looking to collaborate on Data Service Projects.
 - 📫 Reach me at rifayat.quadir@hotmail.com!
 
