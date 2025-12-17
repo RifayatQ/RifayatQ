@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RifayatQ
-- 👀 I’m interested in ML Engineering.
+- 👀 I’m interested in AI Engineering.
 - 🌱 I’m currently completing my Masters in Statistics & Probability from MIT.
-- 💞️ I’m looking to collaborate on Data Engineering Projects.
+- 💞️ I’m looking to collaborate on Data & AI Engineering Projects.
 
 <!---
 RifayatQ/RifayatQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
